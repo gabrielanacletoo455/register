@@ -1,0 +1,41 @@
+{
+
+  "owner": {
+
+    "username": "gabrielanacletoo455",
+
+    "email": "gabrielanacleto159@gmail.com"
+
+  },
+
+  "records": {
+
+    "A": ["__________"]
+
+  }
+
+}
+
+
+
+
+_vercel.domain.json
+
+
+{
+
+  "owner": {
+
+    "username": "your-github-username",
+
+    "email": "your-email"
+
+  },
+
+  "records": {
+
+    "TXT": "____________"
+
+  }
+
+}
